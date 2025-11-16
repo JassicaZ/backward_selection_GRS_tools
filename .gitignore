@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+build
+grs_tool.egg-info
+./myutils/__pycache__/*
+myutils/__pycache__/__init__.cpython-314.pyc
+myutils/__pycache__/draw.cpython-314.pyc
+myutils/__pycache__/opitimize.cpython-314.pyc
+./myutils/.ipynb_checkpoints
